@@ -1,7 +1,7 @@
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common')) :
-	typeof define === 'function' && define.amd ? define('demo-accelaformengine', ['exports', '@angular/core', '@angular/common'], factory) :
-	(factory((global['demo-accelaformengine'] = {}),global.ng.core,global.ng.common));
+	typeof define === 'function' && define.amd ? define('ferrari-formengine', ['exports', '@angular/core', '@angular/common'], factory) :
+	(factory((global['ferrari-formengine'] = {}),global.ng.core,global.ng.common));
 }(this, (function (exports,core,common) { 'use strict';
 
 var HeaderComponent = /** @class */ (function () {
@@ -44,4 +44,4 @@ exports.ɵa = HeaderComponent;
 Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
-//# sourceMappingURL=demo-accelaformengine.umd.js.map
+//# sourceMappingURL=ferrari-formengine.umd.js.map

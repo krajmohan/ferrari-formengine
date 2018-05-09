@@ -1,5 +1,5 @@
 {
-  "name": "demo-accelaformengine",
+  "name": "ferrari-formengine",
   "version": "1.0.3",
   "private": true,
   "dependencies": {
@@ -39,9 +39,9 @@
     "tslint": "~5.9.1",
     "typescript": "~2.7.2"
   },
-  "main": "bundles/demo-accelaformengine.umd.js",
-  "module": "esm5/demo-accelaformengine.js",
-  "es2015": "esm2015/demo-accelaformengine.js",
-  "typings": "demo-accelaformengine.d.ts",
-  "metadata": "demo-accelaformengine.metadata.json"
+  "main": "bundles/ferrari-formengine.umd.js",
+  "module": "esm5/ferrari-formengine.js",
+  "es2015": "esm2015/ferrari-formengine.js",
+  "typings": "ferrari-formengine.d.ts",
+  "metadata": "ferrari-formengine.metadata.json"
 }

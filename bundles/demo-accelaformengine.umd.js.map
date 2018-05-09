@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "file": "demo-accelaformengine.umd.js",
+  "file": "ferrari-formengine.umd.js",
   "sources": [
-    "ng://demo-accelaformengine/out/app/modules/header/header.module.ts",
-    "ng://demo-accelaformengine/out/app/modules/header/header.component.ts"
+    "ng://ferrari-formengine/out/app/modules/header/header.module.ts",
+    "ng://ferrari-formengine/out/app/modules/header/header.component.ts"
   ],
   "sourcesContent": [
     "import { NgModule } from '@angular/core';\nimport { CommonModule } from '@angular/common';\nimport { HeaderComponent } from './header.component';\n\n@NgModule({\n  imports: [\n    CommonModule\n  ],\n  declarations: [\n    HeaderComponent\n  ],\n  exports: [\n    HeaderComponent\n  ]\n})\nexport class HeaderModule { }\n",
